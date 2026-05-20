@@ -508,6 +508,8 @@ Tools:
 
 - [Decision Guardian](https://github.com/DecispherHQ/decision-guardian)
 
+- [Mneme HQ - ADR enforcement for AI coding agents](https://github.com/TheoV823/mneme)
+
 Company-Specific Guidance:
 
 - [Amazon: AWS Prescriptive Guidance: ADR Process](https://docs.aws.amazon.com/prescriptive-guidance/latest/architectural-decision-records/adr-process.html)
