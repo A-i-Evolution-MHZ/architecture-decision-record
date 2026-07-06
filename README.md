@@ -174,7 +174,7 @@ $ mkdir adr
 For each ADR, create a text file, such as `database.txt`:
 
 ```sh
-$ vi database.txt
+$ vi choose-database.md
 ```
 
 Write anything you want in the ADR. See the templates in this repository for ideas.
