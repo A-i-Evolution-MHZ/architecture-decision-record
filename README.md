@@ -513,6 +513,8 @@ Tools:
 
 - [Mneme HQ - ADR enforcement for AI coding agents](https://github.com/TheoV823/mneme)
 
+- [Keep the Why - a repo-native agent skill that continuously captures, or retrospectively recovers, the reasoning behind a codebase](https://github.com/oliver-zehentleitner/keep-the-why)
+
 Company-Specific Guidance:
 
 - [Amazon: AWS Prescriptive Guidance: ADR Process](https://docs.aws.amazon.com/prescriptive-guidance/latest/architectural-decision-records/adr-process.html)
