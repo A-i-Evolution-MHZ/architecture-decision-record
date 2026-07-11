@@ -501,6 +501,8 @@ In-depth:
 
 - [Solution Architecture Decisions - By Gareth Morgan](https://www.linkedin.com/pulse/solution-architecture-decisions-gareth-morgan-0r5xe/)
 
+- ["Keep the Why: Code Becomes Legacy When Nobody Remembers Why"](https://blog.technopathy.club/keep-the-why-code-becomes-legacy-when-nobody-remembers-why)
+
 Tools:
 
 - [Command-line tools for working with Architecture Decision Records](https://github.com/npryce/adr-tools)
