@@ -501,6 +501,8 @@ In-depth:
 
 - [Solution Architecture Decisions - By Gareth Morgan](https://www.linkedin.com/pulse/solution-architecture-decisions-gareth-morgan-0r5xe/)
 
+- ["Keep the Why: Code Becomes Legacy When Nobody Remembers Why"](https://blog.technopathy.club/keep-the-why-code-becomes-legacy-when-nobody-remembers-why)
+
 Tools:
 
 - [Command-line tools for working with Architecture Decision Records](https://github.com/npryce/adr-tools)
@@ -512,6 +514,8 @@ Tools:
 - [Decision Guardian](https://github.com/DecispherHQ/decision-guardian)
 
 - [Mneme HQ - ADR enforcement for AI coding agents](https://github.com/TheoV823/mneme)
+
+- [Keep the Why - a repo-native agent skill that continuously captures, or retrospectively recovers, the reasoning behind a codebase](https://github.com/oliver-zehentleitner/keep-the-why)
 
 Company-Specific Guidance:
 
