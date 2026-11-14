@@ -13,7 +13,7 @@
 		"content": "node scripts/sync-content.mjs && node scripts/generate-manifest.mjs"
 	},
 	"devDependencies": {
-		"@sveltejs/adapter-static": "^3.0.10",
+		"@sveltejs/adapter-static": "^3.0.11",
 		"@sveltejs/kit": "^2.70.2",
 		"@sveltejs/vite-plugin-svelte": "^5.1.1",
 		"mdsvex": "^0.12.8",
